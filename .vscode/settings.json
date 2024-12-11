@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "trethotapcode-2",
+        "projectKey": "trethotapcode_DecisionTree_Fraud_CreditCard_detection"
+    }
+}
